@@ -1,0 +1,12 @@
+POST https://danalexandrunicoara-silver-space-xr4wq7qpjj5cp4v5-5058.preview.app.github.dev/Product/AddProduct
+Content-Type: application/json
+
+{
+    "id": "12dbf944-df1c-4c7e-8c9a-24e3e0dabb82",
+    "name": "Product name 5",
+    "description": "product description 4"
+}
+
+###
+
+GET https://danalexandrunicoara-silver-space-xr4wq7qpjj5cp4v5-5058.preview.app.github.dev/Product/GetProductByName?name=Product name 5

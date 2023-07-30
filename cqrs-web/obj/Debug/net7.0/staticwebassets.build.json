@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "32ZziStxG30XZrwvNqug0KiY91wzeRPm59U50MWDKvQ=",
+  "Source": "cqrs-web",
+  "BasePath": "_content/cqrs-web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
